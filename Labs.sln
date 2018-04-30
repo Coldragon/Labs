@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rpg_rlutil", "rpg_rlutil\rpg_rlutil.vcxproj", "{58A64796-F989-4463-B3C0-2575C51F1EF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera_Test", "Projects\Camera_test\camera_test.vcxproj", "{FC068218-22F0-4C37-AD5F-664CDFF635F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rpg_Text", "Projects\Rpg_text\Rpg_Text.vcxproj", "{58A64796-F989-4463-B3C0-2575C51F1EF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Debug|x64.ActiveCfg = Debug|x64
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Debug|x64.Build.0 = Debug|x64
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Debug|x86.Build.0 = Debug|Win32
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Release|x64.ActiveCfg = Release|x64
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Release|x64.Build.0 = Release|x64
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Release|x86.ActiveCfg = Release|Win32
+		{FC068218-22F0-4C37-AD5F-664CDFF635F4}.Release|x86.Build.0 = Release|Win32
 		{58A64796-F989-4463-B3C0-2575C51F1EF1}.Debug|x64.ActiveCfg = Debug|x64
 		{58A64796-F989-4463-B3C0-2575C51F1EF1}.Debug|x64.Build.0 = Debug|x64
 		{58A64796-F989-4463-B3C0-2575C51F1EF1}.Debug|x86.ActiveCfg = Debug|Win32

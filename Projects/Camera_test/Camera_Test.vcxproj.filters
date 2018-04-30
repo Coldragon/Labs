@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{35ae8505-4552-4870-ab6f-8537f5b565c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\hdr">
+      <UniqueIdentifier>{b1a74352-0101-47d5-b459-f84be77da762}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\camera.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\input.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\map.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\text.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\texture.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\hdr\camera.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\core.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\graphics.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\gui.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\input.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\map.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\struct.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\text.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\texture.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\hdr\stb_image.h">
+      <Filter>src\hdr</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
