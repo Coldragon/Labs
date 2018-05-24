@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demineur_uvsq", "Projects\D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_test", "Projects\Cpp_test\Cpp_test.vcxproj", "{9AE00353-ED87-4BEA-A234-B007A7F52483}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{9BBAD303-779A-4422-AE98-342060ABBA11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{9AE00353-ED87-4BEA-A234-B007A7F52483}.Release|x64.Build.0 = Release|x64
 		{9AE00353-ED87-4BEA-A234-B007A7F52483}.Release|x86.ActiveCfg = Release|Win32
 		{9AE00353-ED87-4BEA-A234-B007A7F52483}.Release|x86.Build.0 = Release|Win32
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Debug|x64.ActiveCfg = Debug|x64
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Debug|x64.Build.0 = Debug|x64
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Debug|x86.Build.0 = Debug|Win32
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Release|x64.ActiveCfg = Release|x64
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Release|x64.Build.0 = Release|x64
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Release|x86.ActiveCfg = Release|Win32
+		{9BBAD303-779A-4422-AE98-342060ABBA11}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
